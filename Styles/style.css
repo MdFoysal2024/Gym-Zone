@@ -338,7 +338,7 @@ body {
 
 
 
-/* Modern Gym Instrument Section styled */
+/* Modern Gym Equipment Section styled */
 
 .gym-instrument-section {
     max-width: 80%;
@@ -359,7 +359,7 @@ body {
 }
 
 .gym-instrument-item {
-    padding: 24px;
+    padding: 32px;
     border: 1px solid rgb(29, 29, 29);
     background-color: rgb(32, 32, 32);
     box-shadow: 1px 2px 5px 2px rgb(70, 70, 70);
@@ -370,12 +370,13 @@ body {
 .gym-instrument-img {
     border-radius: 15px;
     width: 100%;
+    height: 65%;
 }
 
 .gym-instrument-title2 {
     color: #ffffff;
     font-size: 28px;
-    padding: 16px;
+    padding: 12px;
 }
 
 .gym-instrument-description {
