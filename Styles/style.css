@@ -139,6 +139,7 @@ body {
 
 .banner-title {
     font-size: 85px;
+    line-height: 120%;
     font-weight: 900;
     color: #ffffff;
 }
@@ -635,6 +636,8 @@ footer {
 
 .footer-head-text {
     font-size: 64px;
+    margin-bottom: 48px;
+    font-style: italic;
     font-weight: 800;
     color: #f74c2d;
 }
@@ -758,6 +761,7 @@ footer {
         font-style: normal;
         font-size: 45px;
     }
+
     .banner-content {
         max-width: 100%;
 
