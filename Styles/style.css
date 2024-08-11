@@ -473,6 +473,7 @@ select {
 .team-section {
     max-width: 80%;
     margin: 120px auto;
+
 }
 
 .team-section-text-content {
@@ -482,6 +483,9 @@ select {
 
 .team-section-content-description {
     color: #919090;
+    text-align: center;
+   
+
 }
 
 .team-section-content-title {
@@ -750,7 +754,7 @@ footer {
 
 
     .banner-title {
-        font-size: 36px;
+        font-size: 48px;
         font-weight: 900;
         color: #ffffff;
     }
@@ -1250,7 +1254,7 @@ footer {
     }
 
     .footer-head-text {
-        font-size: 36px;
+        font-size: 48px;
         font-weight: 800;
         color: #f74c2d;
     }
